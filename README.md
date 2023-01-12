@@ -1,6 +1,6 @@
 # Zebra
 
-ZEBRA: Accelerating Distributed Sparse Deep Training with In-network Gradient Aggregation for Hot Parameters
+ZEBRA: Accelerating Distributed Sparse Deep Training with In-network Gradient Aggregation for Hot Parameters.
 ## PS-Lite + lwip
 
 ### Installation
