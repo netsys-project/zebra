@@ -1,7 +1,6 @@
 # Zebra
 
-Zebra: A Building Block for In-network acceleration of Distributed Sparse Deep Learning
-
+ZEBRA: Accelerating Distributed Sparse Deep Training with In-network Gradient Aggregation for Hot Parameters
 ## PS-Lite + lwip
 
 ### Installation
